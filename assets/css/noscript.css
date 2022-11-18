@@ -9,8 +9,8 @@
 /* Wrapper */
 
 	#wrapper {
-		background-color: #ffffff;
-		background-image: url(""), linear-gradient(0deg, rgb(90, 144, 243, 0.467), rgba(49, 87, 226, 0.267)), url("images\bg2.jpg");
+		background-color: #cdc7c7e5;
+		background-image: url(""), linear-gradient(5deg, rgba(1, 15, 121), rgba(72, 94, 233, 0.771)), url("images\bg2.jpg");
 		background-size: auto,								auto,														100% auto;
 		background-position: center,								center,														top center;
 		background-repeat: repeat,								no-repeat,													no-repeat;
